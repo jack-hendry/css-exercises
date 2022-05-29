@@ -1,0 +1,20 @@
+/* styles.css */
+
+.odd {
+    background-color: rgb(255, 111, 200);
+    font-family: Verdana, sans-serif;
+
+}
+
+.sized {
+    font-size: 24px;
+}
+
+#second {
+    color:blue;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: rgb(130, 250, 32);
+}
